@@ -1,0 +1,12 @@
+dbname="adms4h2";
+dbuser="root";
+dbpswd="";
+dbhost="59.108.43.4";
+#查询语句所在文件
+file="mysql.sql";
+#查询数据重定向到outputfile,可随意写
+outputfile="result.txt";
+#头放点存放临时文件，可随意写
+spfile="sp.csv";
+#示例log数据最终存放位置，固定格式，为想要的日期
+finallog="2012-05-29.csv";
